@@ -21,5 +21,9 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/shivashankar1431432-debug/shivashankar1431432-debug/output/github-snake.svg" />
 </picture>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivashankar1431432-debug&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://img.shields.io/badge/AI%20Engineer-0A66C2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-6E40C9?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Voice%20Agents-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20Freelance-2EA44F?style=for-the-badge" />
 </p>
