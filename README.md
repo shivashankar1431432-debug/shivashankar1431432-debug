@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivashankar1431432-debug" alt="shivashankar1431432-debug" /></a> </p>
 
-- 🔭 I’m currently create some projects [SAMINENI EYE HOSPITAL ,BIG BUCKET BIRYANI ,DASH HOTEL WEBSITE ,RAG AGENT](https://saminenieyehospital.netlify.app/ -- https://clinquant-semifreddo-ff0089.netlify.app/ -- https://dash-hotel.netlify.app/)
+- 🔭 I’m  create some projects [SAMINENI EYE HOSPITAL ,BIG BUCKET BIRYANI ,DASH HOTEL WEBSITE ,RAG AGENT](https://saminenieyehospital.netlify.app/ -- https://clinquant-semifreddo-ff0089.netlify.app/ -- https://dash-hotel.netlify.app/)
 
 - 🌱 I’m currently learning **mcp,rag,agentic ai**
 
